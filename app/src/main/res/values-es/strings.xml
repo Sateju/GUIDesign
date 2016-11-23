@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Diseño UI</string>
+    <string name="ue_citizen">Ciudadano UE</string>
+    <string name="accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="apply">Aplicar</string>
+    <string name="name">Nombre</string>
+    <string name="name_title">Nombre:</string>
+    <string name="nationality">Nacionalidad</string>
+    <string name="passport">Pasaporte</string>
+    <string name="surname">Apellido</string>
+    <string name="surname_title">Apellido:</string>
+
+
+
+</resources>
